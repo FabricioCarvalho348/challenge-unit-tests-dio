@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesUnitarios.Desafio.Console", "TestesUnitarios.Desafio.Console\TestesUnitarios.Desafio.Console.csproj", "{FBC8A4BB-C892-40C9-9CA6-EBFD479D6573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesUnitarios.Desafio.Tests", "TestesUnitarios.Desafio.Tests\TestesUnitarios.Desafio.Tests.csproj", "{D630F710-73E0-41F4-853C-91E834FC31D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC8A4BB-C892-40C9-9CA6-EBFD479D6573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC8A4BB-C892-40C9-9CA6-EBFD479D6573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC8A4BB-C892-40C9-9CA6-EBFD479D6573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC8A4BB-C892-40C9-9CA6-EBFD479D6573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D630F710-73E0-41F4-853C-91E834FC31D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D630F710-73E0-41F4-853C-91E834FC31D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D630F710-73E0-41F4-853C-91E834FC31D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D630F710-73E0-41F4-853C-91E834FC31D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
